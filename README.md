@@ -15,3 +15,25 @@ Pcb:
 
 CAD:
 <img width="412" height="256" alt="image" src="https://github.com/user-attachments/assets/64a3f82f-620f-4224-9270-e77849240464" />
+
+# BOM
+
+| Part | Quantity | Price | Vendor |
+| :--- | :---: | :---: | :--- |
+| Waveshare ESP32 S3 Zero | 1 | $6.31 | Robu.in |
+| VL53L0X sensor | 1 | - | Robu.in |
+| MAX98357 module | 1 | - | Robu.in |
+| 1.3in OLED display | 1 | - | Robu.in |
+| 3W 8Ohm speaker | 1 | - | Robu.in |
+| 27mm piezo disc | 8 | $3 | Robu.in |
+| smd BAT54S | 8 | $0.2 | Robu.in |
+| 0805 smd 1M ohm resistor | 8 | $0.2 | Robu.in |
+| 0805 smd 10k ohm resistor | 8 | $0.2 | Robu.in |
+| EVA foam 5mm | - | $2 | Amazon.in |
+| EC11 rotary encoder | 1 | $0.5 | Robu.in |
+| SMD push buttons | 2 | $0.3 | Robu.in |
+| 0805 smd 10uf capacitor | 1 | $0.1 | Robu.in |
+| 0805 smd 0.1uf capacitor | 3 | $0.1 | Robu.in |
+| PCB | 1 | $10 | zbotic.in |
+| 3d prints | - | - | - |
+
