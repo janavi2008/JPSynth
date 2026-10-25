@@ -1,4 +1,5 @@
 Item,Qty,Supplier,Cost/item,Total Cost,link
 Waveshare ESP32 S3 Zero,1,Robu,$6.31,$6.31,https://robu.in/product/waveshare-esp32-s3-mini-development-board-based-on-esp32-s3fh4r2-dual-core-processor-240mhz-running-frequency-2-4ghz-wi-fi-bluetooth-5/
 VL53L0X sensor,1,Robu,$2.94,$2.94,https://robu.in/product/tof200c-laser-ranging-sensor-module/
+MAX98357 module,1,Robu,$7.36,$7.36,https://robu.in/product/dfrobot-max98357-i2s-amplifier-module/
 Estimated total shipping,1,,,$0.00,
